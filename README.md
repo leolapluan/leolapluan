@@ -19,14 +19,14 @@ I am driven by a desire to solve complex problems and continuously improve my te
 
 #### 🛠 **Technical Skills**
 
-- **Programming Languages**: Kotlin, Java, Golang, Typescript, Javascript
+- **Programming Languages**: Kotlin, Java, Typescript, Javascript
 - **Frameworks/Platforms**: Spring Boot, ReactJS, NestJS, Express
 - **Databases**:
     - Relational: PostgreSQL, MySQL, Oracle Database, DB2
     - NoSQL: Firebase, MongoDB, Redis
-- **Message Broker**: RabbitMQ
+- **Message Broker**: Kafka, RabbitMQ
 - **Architecture**: Monolithic, Microservices
-- **DevOps**: Docker, AWS, Azure
+- **DevOps**: Docker, AWS
 - **System Design**: Technical Analysis, Database Design, Performance Optimization, Design Patterns
 - **Project Management**: Agile Scrum
 - **Languages**: Vietnamese, English
