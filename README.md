@@ -43,4 +43,5 @@ I am driven by a desire to solve complex problems and continuously improve my te
 #### 📜 **Certificates**
 
 - **TOEIC Certificate**: 810 (Aug 2022)
+- **IELTS Certificate**: 6.0 (Apr 2026)
 - **Memory & Thinking Certificate**: Short-term & Long-term Memory (May 2024)
