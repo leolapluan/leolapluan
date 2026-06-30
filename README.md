@@ -1,4 +1,4 @@
-### 🧑‍💻 Leo Dang — Đặng Tuấn Anh
+# 🧑‍💻 Leo Dang — Đặng Tuấn Anh
 
 **Backend Engineer**
 
@@ -11,22 +11,33 @@
 
 ## 🚀 About Me
 
-I am a Backend Engineer passionate about building practical products that solve real-world problems. I enjoy turning ideas into useful tools, especially in areas related to learning, productivity, and information access. My goal is to create products that are simple, meaningful, and helpful for the community.
+I am a Backend Engineer who enjoys building practical products that support the community and improve the way people study and work.
+
+I am especially interested in solving challenging real-world problems and creating tools that make learning, productivity, and daily workflows more effective.
 
 ---
 
 ## 💡 My Products
 
-### **Etymo**
+### Etymo
 
-**Etymo Dict Extension:** https://chromewebstore.google.com/detail/etymo-dict/dfjndkodmephjfdncgoenddjmpcdghck \
-**Etymo Dict Website:** https://etymo.alphabkteam.ovh
+**Etymo Dict Extension:**
+https://chromewebstore.google.com/detail/etymo-dict/dfjndkodmephjfdncgoenddjmpcdghck
 
-Etymo is a dictionary tool designed to help users remember vocabulary in a more meaningful and memorable way. Instead of relying on rote memorization, Etymo supports deeper word understanding and long-term retention.
+**Etymo Dict Website:**
+https://etymo.alphabkteam.ovh
 
-### **Newsie**
+Etymo is a dictionary tool designed to help users remember vocabulary in a more meaningful and memorable way.
 
-Newsie is a web application that allows users to subscribe to RSS news sources and receive real-time news notifications. It helps users stay updated with relevant information quickly and efficiently.
+Instead of relying on rote memorization, Etymo supports deeper word understanding and long-term retention.
+
+---
+
+### Newsie
+
+Newsie is a web application that allows users to subscribe to RSS news sources and receive real-time news notifications.
+
+It helps users stay updated with relevant information quickly and efficiently.
 
 ---
 
