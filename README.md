@@ -19,7 +19,7 @@ I am a Backend Engineer passionate about building practical products that solve 
 
 ### **Etymo**
 
-**Etymo Dict Extension:** https://chromewebstore.google.com/detail/etymo-dict/dfjndkodmephjfdncgoenddjmpcdghck
+**Etymo Dict Extension:** https://chromewebstore.google.com/detail/etymo-dict/dfjndkodmephjfdncgoenddjmpcdghck \
 **Etymo Dict Website:** https://etymo.alphabkteam.ovh
 
 Etymo is a dictionary tool designed to help users remember vocabulary in a more meaningful and memorable way. Instead of relying on rote memorization, Etymo supports deeper word understanding and long-term retention.
