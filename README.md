@@ -16,8 +16,8 @@ I enjoy creating practical products that help people learn and work more effecti
 
 ## Personal Projects
 
-- **Etymo:** A dictionary tool for vocabulary learning and retention. [Website](https://etymo.alphabkteam.ovh) · [Chrome extension](https://chromewebstore.google.com/detail/etymo-dict/dfjndkodmephjfdncgoenddjmpcdghck)
-- **Newsie:** An RSS news app with real-time notifications.
+- **Etymore:** An English-learning app focused on vocabulary understanding and retention. My goal is to build an English-learning community alongside the app, using etymology, morphology, and other learning and memory techniques. This direction draws on memory methods I was fortunate to learn from Duong Anh Vu, a world record holder and judge on Vietnam's *Super Brain* (Siêu trí tuệ Việt Nam). [Website](https://etymo.alphabkteam.ovh) · [Chrome extension](https://chromewebstore.google.com/detail/etymo-dict/dfjndkodmephjfdncgoenddjmpcdghck)
+- **Newsie:** An app that delivers RSS news updates and real-time notifications from news sources we can configure and customize.
 
 ## Education
 
