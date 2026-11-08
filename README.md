@@ -30,4 +30,4 @@ B.Sc. in Computer Science — Ho Chi Minh University of Technology
 
 ## Connect
 
-[Email](mailto:dangtuananh1601@gmail.com) · [LinkedIn](https://www.linkedin.com/in/leo1601/) · [GitHub](https://github.com/leolapluan)
+[Email](mailto:dangtuananh1601@gmail.com) · [LinkedIn](https://www.linkedin.com/in/leo1601/)
